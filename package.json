@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cpt-Catnip/discord-bot/issues"
   },
-  "homepage": "https://github.com/Cpt-Catnip/discord-bot#readme"
+  "homepage": "https://github.com/Cpt-Catnip/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
 }
