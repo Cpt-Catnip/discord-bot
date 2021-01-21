@@ -13,6 +13,6 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-const onMessage = require('./commands');
+const onMessage = require('./handler');
 
 client.on('message', onMessage);
