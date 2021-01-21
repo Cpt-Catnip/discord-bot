@@ -1,3 +1,3 @@
-module.exports = function (msg, args) {
+module.exports = function (msg) {
   msg.channel.send('pong');
 };
